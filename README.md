@@ -4,4 +4,4 @@
 
 - plot graph by matplotlib.
 
-![test](figure_1.png)
+![test](figure_1.png)python
